@@ -1,0 +1,27 @@
+button {
+    display: block;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.start {
+    padding: 5px 10px;
+    background: rgb(216, 26, 26);
+    color: #fff;
+    border-radius: 2px;
+}
+
+.hide {
+    display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent;
+    background-image: url(player.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
